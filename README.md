@@ -51,13 +51,13 @@ Here are some ideas to get you started:
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihan-tanvir&theme=aura_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihan-tanvir&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihan-tanvir&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raihan-tanvir&theme=dracula&utcOffset=6)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raihan-tanvir&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raihan-tanvir&theme=apprentice)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raihan-tanvir&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raihan-tanvir&theme=apprentice) -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raihan-tanvir&theme=dracula&card_width=700)](https://git.io/streak-stats)
 
