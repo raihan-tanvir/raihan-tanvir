@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.researchgate.net/profile/Raihan_Tanvir" target="_blank">
-    <img src='https://img.shields.io/badge/ResearchGate-100000?style=for-the-badge&logo=researchgate&logoColor=white'>
+    <img src='https://img.shields.io/badge/ResearchGate-3580BB?style=for-the-badge&logo=researchgate&logoColor=white'>
 </a>
 
 <a href="https://raihan-tanvir.github.io/cv.html">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
+    <img src="https://img.shields.io/badge/CV-3282F6?style=for-the-badge&logo=reacthookform&logoColor=white">
 </a>
 
 </div>
