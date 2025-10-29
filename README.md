@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <img src='https://img.shields.io/badge/ResearchGate-3580BB?style=for-the-badge&logo=researchgate&logoColor=white'>
 </a>
 
-<a href="https://raihan-tanvir.github.io/cv.html">
+<a href="https://raihan-tanvir.github.io/cv">
     <img src="https://img.shields.io/badge/CV-3282F6?style=for-the-badge&logo=reacthookform&logoColor=white">
 </a>
 
